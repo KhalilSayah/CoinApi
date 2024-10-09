@@ -1,0 +1,3570 @@
+[
+    {
+        "token": "/tribal",
+        "MarketData": {
+            "circulating_supply": 78898737,
+            "locked_supply": 921101263,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Reserve & Community rewards ",
+                    "value": 43
+                },
+                {
+                    "label": "Early token purchasers",
+                    "value": 18.59
+                },
+                {
+                    "label": "Public sale on Coinlist option 1",
+                    "value": 3.91
+                },
+                {
+                    "label": "Public sale on Coinlist option 2 ",
+                    "value": 2.5
+                },
+                {
+                    "label": "Early contributors",
+                    "value": 32
+                }
+            ]
+        }
+    },
+    {
+        "token": "/cere-network",
+        "MarketData": {
+            "circulating_supply": 6625673184,
+            "locked_supply": 3374326816,
+            "total_supply": 10000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private sale",
+                    "value": 21
+                },
+                {
+                    "label": "Public Sale - 18 months lock-up",
+                    "value": 2
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 7
+                },
+                {
+                    "label": "Public Sale - unlocked",
+                    "value": 2
+                },
+                {
+                    "label": "Staking Rewards",
+                    "value": 5
+                },
+                {
+                    "label": "Team",
+                    "value": 18
+                },
+                {
+                    "label": "Advisor",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing",
+                    "value": 5
+                },
+                {
+                    "label": "Enterprise Partners",
+                    "value": 9
+                },
+                {
+                    "label": "Developer outreach",
+                    "value": 5
+                },
+                {
+                    "label": "Grants",
+                    "value": 8
+                },
+                {
+                    "label": "Network Development",
+                    "value": 8
+                },
+                {
+                    "label": "Foundation/Treasury",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/smoothy-finance",
+        "MarketData": {
+            "circulating_supply": 72216667,
+            "locked_supply": 27783333,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Sale",
+                    "value": 8
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Advisors",
+                    "value": 5
+                },
+                {
+                    "label": "Testing round reward",
+                    "value": 1
+                },
+                {
+                    "label": "Operations, marketing, and partnerships",
+                    "value": 19
+                },
+                {
+                    "label": "Liquidity mining reward",
+                    "value": 50
+                }
+            ]
+        }
+    },
+    {
+        "token": "/dark-frontiers",
+        "MarketData": {
+            "circulating_supply": 206174900,
+            "locked_supply": 43750000,
+            "total_supply": 249924900
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Public Sale",
+                    "value": 4
+                },
+                {
+                    "label": "Private",
+                    "value": 19
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 25
+                },
+                {
+                    "label": "Adoption incentives",
+                    "value": 30
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Advisors",
+                    "value": 7
+                },
+                {
+                    "label": "Development",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/primal",
+        "MarketData": {
+            "circulating_supply": 2883613439,
+            "locked_supply": 2116386561,
+            "total_supply": 5000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Round",
+                    "value": 11
+                },
+                {
+                    "label": "Public Round",
+                    "value": 18
+                },
+                {
+                    "label": "Liquidity, Staking, and MM",
+                    "value": 15
+                },
+                {
+                    "label": "Marketing",
+                    "value": 3
+                },
+                {
+                    "label": "Ecosystem Incentives",
+                    "value": 25
+                },
+                {
+                    "label": "Team ",
+                    "value": 15
+                },
+                {
+                    "label": "Partners & Advisors",
+                    "value": 6
+                },
+                {
+                    "label": "Development Reserve",
+                    "value": 7
+                }
+            ]
+        }
+    },
+    {
+        "token": "/iguverse",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/defiato",
+        "MarketData": {
+            "circulating_supply": 153946250,
+            "locked_supply": 96053750,
+            "total_supply": 250000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 10
+                },
+                {
+                    "label": "VC Round",
+                    "value": 12
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 10
+                },
+                {
+                    "label": "Team",
+                    "value": 12
+                },
+                {
+                    "label": "Treasury",
+                    "value": 9
+                },
+                {
+                    "label": "Ecosystem Incentives",
+                    "value": 25
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 3
+                },
+                {
+                    "label": "Liquidity, Staking, MM & LP Incentives",
+                    "value": 20
+                }
+            ]
+        }
+    },
+    {
+        "token": "/bemil-coin",
+        "MarketData": {
+            "circulating_supply": 999981241,
+            "locked_supply": 18759,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 4
+                },
+                {
+                    "label": "Strategic Round",
+                    "value": 10
+                },
+                {
+                    "label": "VC Round",
+                    "value": 3
+                },
+                {
+                    "label": "Public Round",
+                    "value": 2
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 15
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 30
+                },
+                {
+                    "label": "Team",
+                    "value": 20
+                },
+                {
+                    "label": "Partners & Advisors",
+                    "value": 10
+                },
+                {
+                    "label": "Marketing",
+                    "value": 6
+                }
+            ]
+        }
+    },
+    {
+        "token": "/crypto-prophecies",
+        "MarketData": {
+            "circulating_supply": 116782511,
+            "locked_supply": 123249884,
+            "total_supply": 240032395
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 10
+                },
+                {
+                    "label": "Strategic Round",
+                    "value": 13
+                },
+                {
+                    "label": "Private round",
+                    "value": 10
+                },
+                {
+                    "label": "Public round IDO",
+                    "value": 2
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 30
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 13
+                },
+                {
+                    "label": "Development",
+                    "value": 12
+                },
+                {
+                    "label": "Team",
+                    "value": 9
+                }
+            ]
+        }
+    },
+    {
+        "token": "/ternoa",
+        "MarketData": {
+            "circulating_supply": 1693772646,
+            "locked_supply": 806227354,
+            "total_supply": 2500000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Sale",
+                    "value": 8
+                },
+                {
+                    "label": "Community Sale",
+                    "value": 4
+                },
+                {
+                    "label": "Private Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Strategic",
+                    "value": 6
+                },
+                {
+                    "label": "Private Sale 2",
+                    "value": 5
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Team",
+                    "value": 16
+                },
+                {
+                    "label": "Advisors",
+                    "value": 4
+                },
+                {
+                    "label": "Ecosystem & Partnerships",
+                    "value": 10
+                },
+                {
+                    "label": "Development",
+                    "value": 15
+                },
+                {
+                    "label": "Marketing",
+                    "value": 7
+                },
+                {
+                    "label": "Staking rewards",
+                    "value": 12
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 3
+                },
+                {
+                    "label": "Reserve",
+                    "value": 7
+                }
+            ]
+        }
+    },
+    {
+        "token": "/epik",
+        "MarketData": {
+            "circulating_supply": 1053009615,
+            "locked_supply": 946990385,
+            "total_supply": 2000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Sale",
+                    "value": 17
+                },
+                {
+                    "label": "Strategic Sale",
+                    "value": 4
+                },
+                {
+                    "label": "Private Sale",
+                    "value": 3
+                },
+                {
+                    "label": "Public Sale (SHO)",
+                    "value": 1
+                },
+                {
+                    "label": "Reserve",
+                    "value": 17
+                },
+                {
+                    "label": "Founders",
+                    "value": 16
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 40
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 2
+                }
+            ]
+        }
+    },
+    {
+        "token": "/cryptogpt",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/layerai",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/mgg",
+        "MarketData": {
+            "circulating_supply": 100398740,
+            "locked_supply": 898832030,
+            "total_supply": 999230770
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed ",
+                    "value": 3
+                },
+                {
+                    "label": "Strategic",
+                    "value": 8
+                },
+                {
+                    "label": "Private (VC Round)",
+                    "value": 7
+                },
+                {
+                    "label": "Public sale",
+                    "value": 2
+                },
+                {
+                    "label": "Community",
+                    "value": 36
+                },
+                {
+                    "label": "Liquidity, MM, and Liquidity Incentives",
+                    "value": 15
+                },
+                {
+                    "label": "Advisors",
+                    "value": 5
+                },
+                {
+                    "label": "Team ",
+                    "value": 12
+                },
+                {
+                    "label": "Reserve",
+                    "value": 2
+                },
+                {
+                    "label": "Treasury",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/karate-combat",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/legends-of-crypto",
+        "MarketData": {
+            "circulating_supply": 141612000,
+            "locked_supply": 8388000,
+            "total_supply": 150000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Sale",
+                    "value": 8
+                },
+                {
+                    "label": "Private Sale",
+                    "value": 24
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 3
+                },
+                {
+                    "label": "FD Reserve",
+                    "value": 5
+                },
+                {
+                    "label": "Treasury",
+                    "value": 10
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 15
+                },
+                {
+                    "label": "Ecosystem Fund",
+                    "value": 10
+                },
+                {
+                    "label": "Community & Marketing",
+                    "value": 5
+                },
+                {
+                    "label": "Prize Fund",
+                    "value": 10
+                },
+                {
+                    "label": "Reward Fund I & II",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/seascape",
+        "MarketData": {
+            "circulating_supply": 5795851,
+            "locked_supply": 4204149,
+            "total_supply": 10000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Strategic round",
+                    "value": 4
+                },
+                {
+                    "label": "Private sale",
+                    "value": 5
+                },
+                {
+                    "label": "Public sale (SHO)",
+                    "value": 1
+                },
+                {
+                    "label": "In-game mining & staking",
+                    "value": 50
+                },
+                {
+                    "label": "DEX & CEX liquidity",
+                    "value": 5
+                },
+                {
+                    "label": "Liquidity Incentives",
+                    "value": 5
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Foundation Reserve",
+                    "value": 15
+                },
+                {
+                    "label": "Community Reward Pool",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/openocean",
+        "MarketData": {
+            "circulating_supply": 504525932,
+            "locked_supply": 495474068,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Strategic Round",
+                    "value": 6
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 5
+                },
+                {
+                    "label": "Protocol Development Fund",
+                    "value": 29
+                },
+                {
+                    "label": "Liquidity Mining",
+                    "value": 34
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 17
+                },
+                {
+                    "label": "Early Users",
+                    "value": 2
+                },
+                {
+                    "label": "Ecosystem Foundation",
+                    "value": 7
+                }
+            ]
+        }
+    },
+    {
+        "token": "/liquid-crypto",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/sweat-economy",
+        "MarketData": {
+            "circulating_supply": 8337850537,
+            "locked_supply": 14333790745,
+            "total_supply": 22671641282
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed round",
+                    "value": 3
+                },
+                {
+                    "label": "Private round",
+                    "value": 3
+                },
+                {
+                    "label": "Public sale",
+                    "value": 1
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 7
+                },
+                {
+                    "label": "Airdrop",
+                    "value": 25
+                },
+                {
+                    "label": "Team and advisors",
+                    "value": 11
+                },
+                {
+                    "label": "Sweatco Ltd",
+                    "value": 22
+                },
+                {
+                    "label": "Foundation treasury",
+                    "value": 28
+                }
+            ]
+        }
+    },
+    {
+        "token": "/wingriders",
+        "MarketData": {
+            "circulating_supply": 10732893,
+            "locked_supply": 89267107,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Presale Round",
+                    "value": 6
+                },
+                {
+                    "label": "Private Round",
+                    "value": 6
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 8
+                },
+                {
+                    "label": "Environmental Impact Fund",
+                    "value": 3
+                },
+                {
+                    "label": "Initial Liquidity WingRiders DEX and CEX",
+                    "value": 4
+                },
+                {
+                    "label": "Ecosystem Rewards and Development Reserve",
+                    "value": 3
+                },
+                {
+                    "label": "Liquidity Mining (Farming Incentivization)",
+                    "value": 40
+                },
+                {
+                    "label": "Incubation Entities",
+                    "value": 20
+                },
+                {
+                    "label": "Futur Platform Hires",
+                    "value": 5
+                },
+                {
+                    "label": "Partnerships & Marketing",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/rebase",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/coma-online",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/knit-finance",
+        "MarketData": {
+            "circulating_supply": 54100550,
+            "locked_supply": 45899450,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Strategic round",
+                    "value": 4
+                },
+                {
+                    "label": "Private sale",
+                    "value": 14
+                },
+                {
+                    "label": "Public sale",
+                    "value": 3
+                },
+                {
+                    "label": "Foundational Reserve ",
+                    "value": 14
+                },
+                {
+                    "label": "Advisory Board",
+                    "value": 5
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Partnership",
+                    "value": 9
+                },
+                {
+                    "label": "Marketing",
+                    "value": 6
+                },
+                {
+                    "label": "Building asset reserves",
+                    "value": 16
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 20
+                }
+            ]
+        }
+    },
+    {
+        "token": "/sienna",
+        "MarketData": {
+            "circulating_supply": 5182004,
+            "locked_supply": 4817996,
+            "total_supply": 10000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Public sale",
+                    "value": 2
+                },
+                {
+                    "label": "Private sale",
+                    "value": 20
+                },
+                {
+                    "label": "Development fund",
+                    "value": 13
+                },
+                {
+                    "label": "Advisors",
+                    "value": 2
+                },
+                {
+                    "label": "‍Founders",
+                    "value": 24
+                },
+                {
+                    "label": "Minting pool",
+                    "value": 39
+                }
+            ]
+        }
+    },
+    {
+        "token": "/metagods",
+        "MarketData": {
+            "circulating_supply": 14130466,
+            "locked_supply": 485869534,
+            "total_supply": 500000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Sale",
+                    "value": 19
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Ecosystem Rewards",
+                    "value": 27
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 10
+                },
+                {
+                    "label": "Marketing",
+                    "value": 13
+                },
+                {
+                    "label": "Advisors",
+                    "value": 4
+                },
+                {
+                    "label": "Team",
+                    "value": 13
+                },
+                {
+                    "label": "Treasury",
+                    "value": 12
+                }
+            ]
+        }
+    },
+    {
+        "token": "/oval3",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/rejuve",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/lever-network",
+        "MarketData": {
+            "circulating_supply": 14850629,
+            "locked_supply": 85149371,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 6
+                },
+                {
+                    "label": "Private Round",
+                    "value": 3
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "VC Round",
+                    "value": 9
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 15
+                },
+                {
+                    "label": "Strategic Reserve",
+                    "value": 6
+                },
+                {
+                    "label": "Airdrop",
+                    "value": 3
+                },
+                {
+                    "label": "Liquidity Mining",
+                    "value": 40
+                },
+                {
+                    "label": "Auction",
+                    "value": 2
+                }
+            ]
+        }
+    },
+    {
+        "token": "/prometheus",
+        "MarketData": {
+            "circulating_supply": 882505,
+            "locked_supply": 20117495,
+            "total_supply": 21000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Pre seed",
+                    "value": 5
+                },
+                {
+                    "label": "Seed",
+                    "value": 11
+                },
+                {
+                    "label": "Private 1",
+                    "value": 5
+                },
+                {
+                    "label": "Private  2",
+                    "value": 3
+                },
+                {
+                    "label": "Launchpad",
+                    "value": 3
+                },
+                {
+                    "label": "Advisers",
+                    "value": 2
+                },
+                {
+                    "label": "Airdrop & Marketing",
+                    "value": 1
+                },
+                {
+                    "label": "Team",
+                    "value": 20
+                },
+                {
+                    "label": "Community",
+                    "value": 30
+                },
+                {
+                    "label": "LP, Incentives, MM",
+                    "value": 10
+                },
+                {
+                    "label": "Reserve",
+                    "value": 2
+                },
+                {
+                    "label": "NFT Ecosystem",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "token": "/sociapol",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/shopnext",
+        "MarketData": {
+            "circulating_supply": 408115400,
+            "locked_supply": 591884600,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Angel Round",
+                    "value": 3
+                },
+                {
+                    "label": "VC Round",
+                    "value": 15
+                },
+                {
+                    "label": "SHO",
+                    "value": 2
+                },
+                {
+                    "label": "Company Reserve",
+                    "value": 15
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 10
+                },
+                {
+                    "label": "Community Reward",
+                    "value": 25
+                },
+                {
+                    "label": "Team ",
+                    "value": 18
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 2
+                },
+                {
+                    "label": "Marketing, Acquisitions, & Licenses ",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/sophiaverse",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/befitter",
+        "MarketData": {
+            "circulating_supply": 216924384,
+            "locked_supply": 783075616,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Public Sale",
+                    "value": 15
+                },
+                {
+                    "label": "Liquidity & MM",
+                    "value": 12
+                },
+                {
+                    "label": "Ecosystem & Reward (M2E & Staking)",
+                    "value": 30
+                },
+                {
+                    "label": "Development Team",
+                    "value": 15
+                },
+                {
+                    "label": "Advisor & Ambassador & Consultants",
+                    "value": 6
+                },
+                {
+                    "label": "Marketing",
+                    "value": 10
+                },
+                {
+                    "label": "Community",
+                    "value": 2
+                },
+                {
+                    "label": "Treasury",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/symbiosis-finance",
+        "MarketData": {
+            "circulating_supply": 65321769,
+            "locked_supply": 34419376,
+            "total_supply": 99741145
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 10
+                },
+                {
+                    "label": "Private Round",
+                    "value": 6
+                },
+                {
+                    "label": "Strategic Round",
+                    "value": 5
+                },
+                {
+                    "label": "Public Round DaoMaker",
+                    "value": 1
+                },
+                {
+                    "label": "Public Round ByBit",
+                    "value": 1
+                },
+                {
+                    "label": "Liquidity Farming",
+                    "value": 10
+                },
+                {
+                    "label": "Node Runners Reward",
+                    "value": 15
+                },
+                {
+                    "label": "Protocol Liquidity",
+                    "value": 10
+                },
+                {
+                    "label": "Relayers Auction",
+                    "value": 5
+                },
+                {
+                    "label": "Advisory",
+                    "value": 5
+                },
+                {
+                    "label": "Founders Team",
+                    "value": 18
+                },
+                {
+                    "label": "Treasury Reserve",
+                    "value": 15
+                }
+            ]
+        }
+    },
+    {
+        "token": "/get-kicks",
+        "MarketData": {
+            "circulating_supply": 2549563492,
+            "locked_supply": 2450436508,
+            "total_supply": 5000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Public",
+                    "value": 2
+                },
+                {
+                    "label": "Strategic",
+                    "value": 2
+                },
+                {
+                    "label": "Private Round",
+                    "value": 3
+                },
+                {
+                    "label": "Partner Round",
+                    "value": 3
+                },
+                {
+                    "label": "Marketing / Parnterships / Treasury",
+                    "value": 25
+                },
+                {
+                    "label": "Rewards",
+                    "value": 30
+                },
+                {
+                    "label": "Team",
+                    "value": 20
+                },
+                {
+                    "label": "Advisors",
+                    "value": 5
+                },
+                {
+                    "label": "Liquidity fund & market making",
+                    "value": 11
+                }
+            ]
+        }
+    },
+    {
+        "token": "/atlas-navi",
+        "MarketData": {
+            "circulating_supply": 161706684,
+            "locked_supply": 138293316,
+            "total_supply": 300000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 3
+                },
+                {
+                    "label": "Strategic",
+                    "value": 6
+                },
+                {
+                    "label": "Private sale",
+                    "value": 10
+                },
+                {
+                    "label": "Partner",
+                    "value": 1
+                },
+                {
+                    "label": "Public sale",
+                    "value": 1
+                },
+                {
+                    "label": "Team",
+                    "value": 9
+                },
+                {
+                    "label": "Marketing",
+                    "value": 11
+                },
+                {
+                    "label": "Rewards",
+                    "value": 30
+                },
+                {
+                    "label": "Development",
+                    "value": 10
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 13
+                },
+                {
+                    "label": "Advisors",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/wistaverse",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/xana",
+        "MarketData": {
+            "circulating_supply": 2845201909,
+            "locked_supply": 2084798091,
+            "total_supply": 4930000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Sale",
+                    "value": 5
+                },
+                {
+                    "label": "Private Sale",
+                    "value": 6
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 33
+                },
+                {
+                    "label": "Liquidity / Staking",
+                    "value": 15
+                },
+                {
+                    "label": "Marketing",
+                    "value": 10
+                },
+                {
+                    "label": "Foundation",
+                    "value": 7
+                },
+                {
+                    "label": "Advisors / Partners",
+                    "value": 5
+                },
+                {
+                    "label": "Development Team / founder",
+                    "value": 17
+                }
+            ]
+        }
+    },
+    {
+        "token": "/ftribe-fighters",
+        "MarketData": {
+            "circulating_supply": 604695983,
+            "locked_supply": 395304017,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed round",
+                    "value": 8
+                },
+                {
+                    "label": "Private round",
+                    "value": 12
+                },
+                {
+                    "label": "Launchpad",
+                    "value": 2
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 15
+                },
+                {
+                    "label": "Advisors",
+                    "value": 3
+                },
+                {
+                    "label": "Team",
+                    "value": 12
+                },
+                {
+                    "label": "In game rewards",
+                    "value": 25
+                },
+                {
+                    "label": "Ecosystem Fund",
+                    "value": 5
+                },
+                {
+                    "label": "Revert Fund",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing Fund",
+                    "value": 14
+                }
+            ]
+        }
+    },
+    {
+        "token": "/wam",
+        "MarketData": {
+            "circulating_supply": 679479421,
+            "locked_supply": 320520579,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 2
+                },
+                {
+                    "label": "Private",
+                    "value": 10
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Reward Pool",
+                    "value": 40
+                },
+                {
+                    "label": "Team ",
+                    "value": 15
+                },
+                {
+                    "label": "Liquidity, Staking, MM, and LP Incentives",
+                    "value": 9
+                },
+                {
+                    "label": "Marketing",
+                    "value": 7
+                },
+                {
+                    "label": "Development",
+                    "value": 5
+                },
+                {
+                    "label": "Company Reserves",
+                    "value": 5
+                },
+                {
+                    "label": "Advisors",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/amazy",
+        "MarketData": {
+            "circulating_supply": 480923921,
+            "locked_supply": 519076079,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Influencers Allocation",
+                    "value": 8
+                },
+                {
+                    "label": "Private Sale 1",
+                    "value": 7
+                },
+                {
+                    "label": "Private Sale 2",
+                    "value": 2
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Team",
+                    "value": 12
+                },
+                {
+                    "label": "Treasury",
+                    "value": 15
+                },
+                {
+                    "label": "Farming & Rewards",
+                    "value": 35
+                },
+                {
+                    "label": "Advisors",
+                    "value": 2
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing & Partnerships Fund",
+                    "value": 12
+                }
+            ]
+        }
+    },
+    {
+        "token": "/resource-finance",
+        "MarketData": {
+            "circulating_supply": 4000000,
+            "locked_supply": 96000000,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 7
+                },
+                {
+                    "label": "accelerator/partnerships",
+                    "value": 2
+                },
+                {
+                    "label": "Influencer Round",
+                    "value": 2
+                },
+                {
+                    "label": "Private Sale",
+                    "value": 5
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 3
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 36
+                },
+                {
+                    "label": "Foundation (Swiss)",
+                    "value": 10
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 3
+                },
+                {
+                    "label": "Marketing, Acquisitions, & Licenses",
+                    "value": 3
+                },
+                {
+                    "label": "Ecosystem Fund (DAO-governed)",
+                    "value": 2
+                },
+                {
+                    "label": "Reserve (DAO-governed)",
+                    "value": 13
+                }
+            ]
+        }
+    },
+    {
+        "token": "/kaka-nft",
+        "MarketData": {
+            "circulating_supply": 84006800,
+            "locked_supply": 15993200,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 8
+                },
+                {
+                    "label": "Angel Round",
+                    "value": 10
+                },
+                {
+                    "label": "Series A",
+                    "value": 5
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Reserve",
+                    "value": 2
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 24
+                },
+                {
+                    "label": "Play to Earn",
+                    "value": 35
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                }
+            ]
+        }
+    },
+    {
+        "token": "/blockasset",
+        "MarketData": {
+            "circulating_supply": 267200000,
+            "locked_supply": 52800000,
+            "total_supply": 320000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 2
+                },
+                {
+                    "label": "Private1 (Community)",
+                    "value": 2
+                },
+                {
+                    "label": "Private 1 (Large tickets)",
+                    "value": 6
+                },
+                {
+                    "label": "Private2",
+                    "value": 4
+                },
+                {
+                    "label": "Public sale",
+                    "value": 1
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 12
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 25
+                },
+                {
+                    "label": "Partnerships",
+                    "value": 12
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Reserves",
+                    "value": 25
+                }
+            ]
+        }
+    },
+    {
+        "token": "/my-neighbor-alice",
+        "MarketData": {
+            "circulating_supply": 92083333,
+            "locked_supply": 7916667,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private sale",
+                    "value": 21
+                },
+                {
+                    "label": "Public sale (SHO)",
+                    "value": 1
+                },
+                {
+                    "label": "Team & Advisor",
+                    "value": 15
+                },
+                {
+                    "label": "Community & Marketing",
+                    "value": 15
+                },
+                {
+                    "label": "Play to earn ",
+                    "value": 8
+                },
+                {
+                    "label": "Reserve",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem ",
+                    "value": 15
+                },
+                {
+                    "label": "Launchpool",
+                    "value": 5
+                }
+            ]
+        }
+    },
+    {
+        "token": "/coinzix",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/tenet",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/ispolink",
+        "MarketData": {
+            "circulating_supply": 3008152161,
+            "locked_supply": 6991847839,
+            "total_supply": 10000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Sale",
+                    "value": 9
+                },
+                {
+                    "label": "Strategic Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Private sale",
+                    "value": 3
+                },
+                {
+                    "label": "Public sale",
+                    "value": 2
+                },
+                {
+                    "label": "Marketing",
+                    "value": 19
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Advisors",
+                    "value": 5
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 5
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 40
+                }
+            ]
+        }
+    },
+    {
+        "token": "/clearpool",
+        "MarketData": {
+            "circulating_supply": 676152063,
+            "locked_supply": 323847937,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 3
+                },
+                {
+                    "label": "Private Sale 1",
+                    "value": 4
+                },
+                {
+                    "label": "Private Sale 2",
+                    "value": 5
+                },
+                {
+                    "label": "Team & Advisors\n\n",
+                    "value": 15
+                },
+                {
+                    "label": "Partnership",
+                    "value": 10
+                },
+                {
+                    "label": "Pool Rewards",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 10
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 15
+                },
+                {
+                    "label": "Reserve",
+                    "value": 17
+                }
+            ]
+        }
+    },
+    {
+        "token": "/spartadex",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/step-app",
+        "MarketData": {
+            "circulating_supply": 2132844639,
+            "locked_supply": 2467155361,
+            "total_supply": 4600000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Public Sale",
+                    "value": 14
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 20
+                },
+                {
+                    "label": "Mining, Move to Earn",
+                    "value": 30
+                },
+                {
+                    "label": "Team ",
+                    "value": 15
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 6
+                },
+                {
+                    "label": "Marketing, Acquisitions, & Licenses ",
+                    "value": 15
+                }
+            ]
+        }
+    },
+    {
+        "token": "/xcad-network",
+        "MarketData": {
+            "circulating_supply": 58242972,
+            "locked_supply": 140581279,
+            "total_supply": 198824251
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Pre-Seed Round",
+                    "value": 2
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 18
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem Incentives",
+                    "value": 20
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Partners & Advisors",
+                    "value": 8
+                },
+                {
+                    "label": "Foundation",
+                    "value": 21
+                }
+            ]
+        }
+    },
+    {
+        "token": "/cyberarena",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/paysenger",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/vaiot",
+        "MarketData": {
+            "circulating_supply": 346101032,
+            "locked_supply": 53898968,
+            "total_supply": 400000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Pre-seed Round",
+                    "value": 8
+                },
+                {
+                    "label": "Seed Round",
+                    "value": 10
+                },
+                {
+                    "label": "Private Sale 1",
+                    "value": 1
+                },
+                {
+                    "label": "Private Sale 2",
+                    "value": 11
+                },
+                {
+                    "label": "Public Sale - SHO",
+                    "value": 1
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 11
+                },
+                {
+                    "label": "Staking",
+                    "value": 25
+                },
+                {
+                    "label": "Advisors",
+                    "value": 6
+                },
+                {
+                    "label": "Partners",
+                    "value": 12
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                }
+            ]
+        }
+    },
+    {
+        "token": "/suipad",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/formation-fi",
+        "MarketData": {
+            "circulating_supply": 22595890,
+            "locked_supply": 977404110,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 5
+                },
+                {
+                    "label": "Private Round",
+                    "value": 5
+                },
+                {
+                    "label": "Strategic Round",
+                    "value": 5
+                },
+                {
+                    "label": "Ecosystem Round",
+                    "value": 2
+                },
+                {
+                    "label": "Reward Pool",
+                    "value": 33
+                },
+                {
+                    "label": "Team",
+                    "value": 25
+                },
+                {
+                    "label": "Future Security and Maintenance of the Network (ATD)",
+                    "value": 10
+                },
+                {
+                    "label": "Advisors + Consultants",
+                    "value": 2
+                },
+                {
+                    "label": "Public Offering (DAO-MAKER)",
+                    "value": 1
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 1
+                },
+                {
+                    "label": "Treasury",
+                    "value": 6
+                },
+                {
+                    "label": "Marketing",
+                    "value": 2
+                },
+                {
+                    "label": "Ecosystem Development & Fundation",
+                    "value": 3
+                }
+            ]
+        }
+    },
+    {
+        "token": "/infinity-skies",
+        "MarketData": {
+            "circulating_supply": 15516297,
+            "locked_supply": 2844639,
+            "total_supply": 18360936
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed sale",
+                    "value": 10
+                },
+                {
+                    "label": "Private sale",
+                    "value": 15
+                },
+                {
+                    "label": "Public sale",
+                    "value": 1
+                },
+                {
+                    "label": "Company Reserve",
+                    "value": 10
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 20
+                },
+                {
+                    "label": "Liquidity Pool",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing Fund",
+                    "value": 15
+                },
+                {
+                    "label": "Play to earn",
+                    "value": 24
+                }
+            ]
+        }
+    },
+    {
+        "token": "/arbipad",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/kaby-arena",
+        "MarketData": {
+            "circulating_supply": 657452585,
+            "locked_supply": 342547415,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 2
+                },
+                {
+                    "label": "Private Round",
+                    "value": 17
+                },
+                {
+                    "label": "Public Round",
+                    "value": 5
+                },
+                {
+                    "label": "Liquidity & Marketing",
+                    "value": 15
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 26
+                },
+                {
+                    "label": "Foundation",
+                    "value": 14
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 22
+                }
+            ]
+        }
+    },
+    {
+        "token": "/numbers-protocol",
+        "MarketData": {
+            "circulating_supply": 685295131,
+            "locked_supply": 10062984,
+            "total_supply": 695358115
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Sale",
+                    "value": 18
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 3
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 18
+                },
+                {
+                    "label": "Pre-Listing Partners & Consultants",
+                    "value": 2
+                },
+                {
+                    "label": "Staking and user rewards",
+                    "value": 27
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 10
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 23
+                },
+                {
+                    "label": "Marketing",
+                    "value": 1
+                }
+            ]
+        }
+    },
+    {
+        "token": "/demole",
+        "MarketData": {
+            "circulating_supply": 317000000,
+            "locked_supply": 183000000,
+            "total_supply": 500000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed round",
+                    "value": 5
+                },
+                {
+                    "label": "Private round",
+                    "value": 11
+                },
+                {
+                    "label": "Public sale",
+                    "value": 2
+                },
+                {
+                    "label": "DEX Deposit, MM, and Liquidity Incentives",
+                    "value": 15
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 30
+                },
+                {
+                    "label": "Marketing and Staking",
+                    "value": 18
+                },
+                {
+                    "label": "Team & Advisor",
+                    "value": 20
+                }
+            ]
+        }
+    },
+    {
+        "token": "/spellfire",
+        "MarketData": {
+            "circulating_supply": 362374848,
+            "locked_supply": 277625152,
+            "total_supply": 640000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed round",
+                    "value": 8
+                },
+                {
+                    "label": "Private round",
+                    "value": 19
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 3
+                },
+                {
+                    "label": "Listing / Staking",
+                    "value": 18
+                },
+                {
+                    "label": "P2E fund",
+                    "value": 19
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 15
+                },
+                {
+                    "label": "Treasury (Marketing, Ecosystem)",
+                    "value": 18
+                }
+            ]
+        }
+    },
+    {
+        "token": "/xcad-play",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/titan-hunters",
+        "MarketData": {
+            "circulating_supply": 660250000,
+            "locked_supply": 339750000,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 5
+                },
+                {
+                    "label": "Private Round",
+                    "value": 14
+                },
+                {
+                    "label": "Public Round ",
+                    "value": 2
+                },
+                {
+                    "label": "Liquidity & Marketing",
+                    "value": 18
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 25
+                },
+                {
+                    "label": "Foundation",
+                    "value": 17
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 20
+                }
+            ]
+        }
+    },
+    {
+        "token": "/gamegpt",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/xend-finance",
+        "MarketData": {
+            "circulating_supply": 124332260,
+            "locked_supply": 75667740,
+            "total_supply": 200000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Pre-Seed",
+                    "value": 10
+                },
+                {
+                    "label": "Seed",
+                    "value": 10
+                },
+                {
+                    "label": "Strategic round 1",
+                    "value": 11
+                },
+                {
+                    "label": "Private Sale",
+                    "value": 3
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Strategic round 2",
+                    "value": 1
+                },
+                {
+                    "label": "Team",
+                    "value": 14
+                },
+                {
+                    "label": "Developers & Community",
+                    "value": 8
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 10
+                },
+                {
+                    "label": "Foundation",
+                    "value": 18
+                },
+                {
+                    "label": "Staking",
+                    "value": 14
+                }
+            ]
+        }
+    },
+    {
+        "token": "/adaswap",
+        "MarketData": {
+            "circulating_supply": 113750000,
+            "locked_supply": 9886250000,
+            "total_supply": 10000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private 1",
+                    "value": 5
+                },
+                {
+                    "label": "Private 2",
+                    "value": 3
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Staking rewards",
+                    "value": 46
+                },
+                {
+                    "label": "Liquidity ",
+                    "value": 5
+                },
+                {
+                    "label": "Partnerships / Advisors",
+                    "value": 7
+                },
+                {
+                    "label": "Developpers",
+                    "value": 13
+                },
+                {
+                    "label": "Team ",
+                    "value": 11
+                },
+                {
+                    "label": "Marketing",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/victoria-vr",
+        "MarketData": {
+            "circulating_supply": 6848945869,
+            "locked_supply": 9951054131,
+            "total_supply": 16800000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed round",
+                    "value": 12
+                },
+                {
+                    "label": "Strategic Round",
+                    "value": 11
+                },
+                {
+                    "label": "Community",
+                    "value": 2
+                },
+                {
+                    "label": "Team ",
+                    "value": 11
+                },
+                {
+                    "label": "Marketing. Acquisitions. & Licenses ",
+                    "value": 3
+                },
+                {
+                    "label": "Advisors",
+                    "value": 1
+                },
+                {
+                    "label": "Strategic Reserve",
+                    "value": 10
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 50
+                }
+            ]
+        }
+    },
+    {
+        "token": "/mochi",
+        "MarketData": {
+            "circulating_supply": 37122941,
+            "locked_supply": 62877059,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Sale",
+                    "value": 5
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Team and Advisors",
+                    "value": 18
+                },
+                {
+                    "label": "Development Funds\n",
+                    "value": 16
+                },
+                {
+                    "label": "Ecosystem Funds\n",
+                    "value": 23
+                },
+                {
+                    "label": "Staking Rewards\n",
+                    "value": 35
+                },
+                {
+                    "label": "DEX Liquidity",
+                    "value": 2
+                }
+            ]
+        }
+    },
+    {
+        "token": "/turbos-finance",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/bbs-network",
+        "MarketData": {
+            "circulating_supply": 548487339,
+            "locked_supply": 451512661,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Sale",
+                    "value": 6
+                },
+                {
+                    "label": "DAO Public Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Auction on Copper",
+                    "value": 5
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Reserve",
+                    "value": 8
+                },
+                {
+                    "label": "Liquidity & Staking Rewards",
+                    "value": 20
+                },
+                {
+                    "label": "Engagement Mining",
+                    "value": 50
+                }
+            ]
+        }
+    },
+    {
+        "token": "/degen-zoo",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/solice",
+        "MarketData": {
+            "circulating_supply": 43200000,
+            "locked_supply": 356800000,
+            "total_supply": 400000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 6
+                },
+                {
+                    "label": "Private",
+                    "value": 17
+                },
+                {
+                    "label": "Public",
+                    "value": 2
+                },
+                {
+                    "label": "User Incentive",
+                    "value": 5
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 10
+                },
+                {
+                    "label": "Platform reward",
+                    "value": 7
+                },
+                {
+                    "label": "Community and Marketing",
+                    "value": 15
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Advisors",
+                    "value": 3
+                },
+                {
+                    "label": "Reserve",
+                    "value": 20
+                }
+            ]
+        }
+    },
+    {
+        "token": "/fantom-maker",
+        "MarketData": {
+            "circulating_supply": 517120000,
+            "locked_supply": 82880000,
+            "total_supply": 600000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 5
+                },
+                {
+                    "label": "Angel Round",
+                    "value": 5
+                },
+                {
+                    "label": "VC Round",
+                    "value": 3
+                },
+                {
+                    "label": "SHO",
+                    "value": 1
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem Fund",
+                    "value": 20
+                },
+                {
+                    "label": "Team ",
+                    "value": 20
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 8
+                },
+                {
+                    "label": "Marketing, Acquisitions, & Licenses ",
+                    "value": 17
+                }
+            ]
+        }
+    },
+    {
+        "token": "/spherium",
+        "MarketData": {
+            "circulating_supply": 21689602,
+            "locked_supply": 78310398,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 10
+                },
+                {
+                    "label": "Private Round",
+                    "value": 13
+                },
+                {
+                    "label": "Strategic Investment Round",
+                    "value": 2
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Initial Liquidity Addition",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing",
+                    "value": 12
+                },
+                {
+                    "label": "Legal",
+                    "value": 3
+                },
+                {
+                    "label": "Protocol Emission & LP Rewards",
+                    "value": 15
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Ecosystem Development",
+                    "value": 22
+                },
+                {
+                    "label": "Advisors",
+                    "value": 1
+                }
+            ]
+        }
+    },
+    {
+        "token": "/ioi",
+        "MarketData": {
+            "circulating_supply": 37306255,
+            "locked_supply": 193745,
+            "total_supply": 37500000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed investors",
+                    "value": 10
+                },
+                {
+                    "label": "Private sale",
+                    "value": 8
+                },
+                {
+                    "label": "Public sale",
+                    "value": 2
+                },
+                {
+                    "label": "Team",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem burning incentive",
+                    "value": 4
+                },
+                {
+                    "label": "Staking",
+                    "value": 20
+                },
+                {
+                    "label": "Other gaming rewards",
+                    "value": 4
+                },
+                {
+                    "label": "Advisors",
+                    "value": 6
+                },
+                {
+                    "label": "Marketing partners",
+                    "value": 5
+                },
+                {
+                    "label": "Reserve",
+                    "value": 20
+                },
+                {
+                    "label": "Dex Liquidity",
+                    "value": 1
+                }
+            ]
+        }
+    },
+    {
+        "token": "/1sol",
+        "MarketData": {
+            "circulating_supply": 2949500,
+            "locked_supply": 97050500,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 5
+                },
+                {
+                    "label": "Private",
+                    "value": 3
+                },
+                {
+                    "label": "Strategic",
+                    "value": 2
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 1
+                },
+                {
+                    "label": "Team ",
+                    "value": 12
+                },
+                {
+                    "label": "Ecosystem & Community",
+                    "value": 34
+                },
+                {
+                    "label": "Advisors&Partners",
+                    "value": 9
+                },
+                {
+                    "label": "Mining",
+                    "value": 35
+                }
+            ]
+        }
+    },
+    {
+        "token": "/bit-country",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/aluna-social",
+        "MarketData": {
+            "circulating_supply": 35459664,
+            "locked_supply": 64329182,
+            "total_supply": 99788846
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed round",
+                    "value": 7
+                },
+                {
+                    "label": "Private sale 1",
+                    "value": 2
+                },
+                {
+                    "label": "Private sale 2",
+                    "value": 3
+                },
+                {
+                    "label": "Private sale 3",
+                    "value": 2
+                },
+                {
+                    "label": "Strategic round",
+                    "value": 7
+                },
+                {
+                    "label": "Public sale Price",
+                    "value": 3
+                },
+                {
+                    "label": "Early Adopters",
+                    "value": 11
+                },
+                {
+                    "label": "Ecosystem Fund",
+                    "value": 15
+                },
+                {
+                    "label": "Team & Advisors",
+                    "value": 14
+                },
+                {
+                    "label": "Treasury",
+                    "value": 35
+                }
+            ]
+        }
+    },
+    {
+        "token": "/archway",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/nn",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/convergence-finance",
+        "MarketData": {
+            "circulating_supply": 3930225792,
+            "locked_supply": 6069774208,
+            "total_supply": 10000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 4
+                },
+                {
+                    "label": "Private 1",
+                    "value": 5
+                },
+                {
+                    "label": "Private 2",
+                    "value": 5
+                },
+                {
+                    "label": "Public",
+                    "value": 1
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Advisor",
+                    "value": 5
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 10
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 40
+                },
+                {
+                    "label": "Community",
+                    "value": 10
+                },
+                {
+                    "label": "Reserve",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/bitlocus",
+        "MarketData": {
+            "circulating_supply": 495312500,
+            "locked_supply": 4687500,
+            "total_supply": 500000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Round",
+                    "value": 30
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 3
+                },
+                {
+                    "label": "Liquidity / LP & Privacy Adoption incentives",
+                    "value": 30
+                },
+                {
+                    "label": "Marketing / Ecosystem ",
+                    "value": 15
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Partners / Advisors",
+                    "value": 3
+                },
+                {
+                    "label": "Development",
+                    "value": 3
+                },
+                {
+                    "label": "Reserve",
+                    "value": 5
+                },
+                {
+                    "label": "Legal",
+                    "value": 1
+                }
+            ]
+        }
+    },
+    {
+        "token": "/elfin-kingdom",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/derace",
+        "MarketData": {
+            "circulating_supply": 120000000,
+            "locked_supply": 0,
+            "total_supply": 120000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Round",
+                    "value": 28
+                },
+                {
+                    "label": "DAO Maker / Platform raise SHO",
+                    "value": 6
+                },
+                {
+                    "label": "Liquidity / LP & Privacy Adoption incentives",
+                    "value": 25
+                },
+                {
+                    "label": "Marketing / Ecosystem ",
+                    "value": 15
+                },
+                {
+                    "label": "Team",
+                    "value": 10
+                },
+                {
+                    "label": "Partners / Advisors",
+                    "value": 5
+                },
+                {
+                    "label": "Development",
+                    "value": 11
+                }
+            ]
+        }
+    },
+    {
+        "token": "/codyfight",
+        "MarketData": {
+            "circulating_supply": 0,
+            "locked_supply": 127000001,
+            "total_supply": 127000001
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private Round",
+                    "value": 24
+                },
+                {
+                    "label": "Public Round",
+                    "value": 4
+                },
+                {
+                    "label": "Liquidity Pool, Staking, MM, and LP Incentives",
+                    "value": 15
+                },
+                {
+                    "label": "Marketing | Ecosystem ",
+                    "value": 20
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Partners & Advisors",
+                    "value": 6
+                },
+                {
+                    "label": "Development",
+                    "value": 16
+                }
+            ]
+        }
+    },
+    {
+        "token": "/gamefi",
+        "MarketData": {
+            "circulating_supply": 10945063,
+            "locked_supply": 4009907,
+            "total_supply": 14954970
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed",
+                    "value": 2
+                },
+                {
+                    "label": "Private",
+                    "value": 12
+                },
+                {
+                    "label": "Public",
+                    "value": 2
+                },
+                {
+                    "label": "Team",
+                    "value": 16
+                },
+                {
+                    "label": "Advisor",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing/Liquidity",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem/Community",
+                    "value": 24
+                },
+                {
+                    "label": "Treasury",
+                    "value": 19
+                }
+            ]
+        }
+    },
+    {
+        "token": "/heroesempires",
+        "MarketData": {
+            "circulating_supply": 471187499,
+            "locked_supply": 528812501,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Strategic Round",
+                    "value": 15
+                },
+                {
+                    "label": "Public Round",
+                    "value": 1
+                },
+                {
+                    "label": "Liquidity, MM, Marketing, and Incentives",
+                    "value": 15
+                },
+                {
+                    "label": "Ingame Rewards",
+                    "value": 30
+                },
+                {
+                    "label": "Ecosystem Fund",
+                    "value": 19
+                },
+                {
+                    "label": "Team",
+                    "value": 15
+                },
+                {
+                    "label": "Advisors",
+                    "value": 4
+                }
+            ]
+        }
+    },
+    {
+        "token": "/gamium",
+        "MarketData": {
+            "circulating_supply": 20801360198,
+            "locked_supply": 12543262214,
+            "total_supply": 33344622412
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Early adopters",
+                    "value": 1
+                },
+                {
+                    "label": "Private",
+                    "value": 15
+                },
+                {
+                    "label": "Public Presale",
+                    "value": 3
+                },
+                {
+                    "label": "Public Sale",
+                    "value": 2
+                },
+                {
+                    "label": "Airdrop",
+                    "value": 1
+                },
+                {
+                    "label": "Advisors",
+                    "value": 6
+                },
+                {
+                    "label": "Staking",
+                    "value": 7
+                },
+                {
+                    "label": "Liquidity",
+                    "value": 1
+                },
+                {
+                    "label": "Treasury",
+                    "value": 25
+                },
+                {
+                    "label": "Marketing",
+                    "value": 18
+                },
+                {
+                    "label": "Team",
+                    "value": 18
+                },
+                {
+                    "label": "Reserves for exchange",
+                    "value": 3
+                }
+            ]
+        }
+    },
+    {
+        "token": "/nftrade",
+        "MarketData": {
+            "circulating_supply": 46584184,
+            "locked_supply": 88415816,
+            "total_supply": 135000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Private",
+                    "value": 28
+                },
+                {
+                    "label": "Public",
+                    "value": 4
+                },
+                {
+                    "label": "Community Round",
+                    "value": 1
+                },
+                {
+                    "label": "Liquidity Incentives",
+                    "value": 14
+                },
+                {
+                    "label": "Treasury",
+                    "value": 18
+                },
+                {
+                    "label": "Team",
+                    "value": 20
+                },
+                {
+                    "label": "Advisors",
+                    "value": 7
+                },
+                {
+                    "label": "Marketing",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "token": "/manta-network",
+        "Token Supply": "Not Found"
+    },
+    {
+        "token": "/gold-fever",
+        "MarketData": {
+            "circulating_supply": 40994078,
+            "locked_supply": 129005922,
+            "total_supply": 170000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 6
+                },
+                {
+                    "label": "Angel Round",
+                    "value": 4
+                },
+                {
+                    "label": "VC Round",
+                    "value": 10
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 10
+                },
+                {
+                    "label": "Mining",
+                    "value": 44
+                },
+                {
+                    "label": "Team ",
+                    "value": 15
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing, Acquisitions, & Licenses ",
+                    "value": 6
+                }
+            ]
+        }
+    },
+    {
+        "token": "/marnotaur",
+        "MarketData": {
+            "circulating_supply": 10500000,
+            "locked_supply": 139500000,
+            "total_supply": 150000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 6
+                },
+                {
+                    "label": "Private Round",
+                    "value": 19
+                },
+                {
+                    "label": "Liquiditiy ",
+                    "value": 20
+                },
+                {
+                    "label": "Ecosystem Incentives",
+                    "value": 24
+                },
+                {
+                    "label": "Team ",
+                    "value": 16
+                },
+                {
+                    "label": "Partners & Advisors",
+                    "value": 5
+                },
+                {
+                    "label": "Marketing ",
+                    "value": 10
+                }
+            ]
+        }
+    },
+    {
+        "token": "/ondo-finance",
+        "MarketData": {
+            "circulating_supply": 0,
+            "locked_supply": 10000000000,
+            "total_supply": 10000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Public sale on Coinlist option 1",
+                    "value": 4
+                },
+                {
+                    "label": "Public sale on Coinlist option 2",
+                    "value": 1
+                },
+                {
+                    "label": "Series A",
+                    "value": 10
+                },
+                {
+                    "label": "Seed round",
+                    "value": 3
+                },
+                {
+                    "label": "DAO",
+                    "value": 82
+                }
+            ]
+        }
+    },
+    {
+        "token": "/subquery-network",
+        "MarketData": {
+            "circulating_supply": 0,
+            "locked_supply": 10000000000,
+            "total_supply": 10000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Foundation & Community",
+                    "value": 41
+                },
+                {
+                    "label": "Team & Launch partners",
+                    "value": 20
+                },
+                {
+                    "label": "Seed investors",
+                    "value": 12
+                },
+                {
+                    "label": "Series A investors",
+                    "value": 15
+                },
+                {
+                    "label": "Public sale on Tokensoft round 1",
+                    "value": 4.9
+                },
+                {
+                    "label": "Public sale on Tokensoft round 2",
+                    "value": 4.2
+                }
+            ]
+        }
+    },
+    {
+        "token": "/snook",
+        "MarketData": {
+            "circulating_supply": 26372776,
+            "locked_supply": 13121937,
+            "total_supply": 39494713
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Team",
+                    "value": 16
+                },
+                {
+                    "label": "Advisors",
+                    "value": 3
+                },
+                {
+                    "label": "Seed Round",
+                    "value": 6
+                },
+                {
+                    "label": "Private Round",
+                    "value": 18
+                },
+                {
+                    "label": "Strategic partners",
+                    "value": 15
+                },
+                {
+                    "label": "Token sale",
+                    "value": 5
+                },
+                {
+                    "label": "Treasury",
+                    "value": 15
+                },
+                {
+                    "label": "Liquidity pool",
+                    "value": 10
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 12
+                }
+            ]
+        }
+    },
+    {
+        "token": "/omnia",
+        "MarketData": {
+            "circulating_supply": 0,
+            "locked_supply": 100000000,
+            "total_supply": 100000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed - Strategic",
+                    "value": 6
+                },
+                {
+                    "label": "Private - Strategic",
+                    "value": 8
+                },
+                {
+                    "label": "VCs Early Round",
+                    "value": 4
+                },
+                {
+                    "label": "Partners Round",
+                    "value": 6
+                },
+                {
+                    "label": "Public Round",
+                    "value": 1
+                },
+                {
+                    "label": "Nodes & Ecosystem",
+                    "value": 30
+                },
+                {
+                    "label": "Liquidity, MM, and Liquidity Incentives",
+                    "value": 14
+                },
+                {
+                    "label": "Advisors",
+                    "value": 8
+                },
+                {
+                    "label": "Team ",
+                    "value": 17
+                },
+                {
+                    "label": "Marketing",
+                    "value": 5
+                },
+                {
+                    "label": "Treasury",
+                    "value": 2
+                }
+            ]
+        }
+    },
+    {
+        "token": "/web3games",
+        "MarketData": {
+            "circulating_supply": 0,
+            "locked_supply": 1000000000,
+            "total_supply": 1000000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round",
+                    "value": 10
+                },
+                {
+                    "label": "Private Round",
+                    "value": 10
+                },
+                {
+                    "label": "Public sale (SHO)",
+                    "value": 4
+                },
+                {
+                    "label": "Ecosystem",
+                    "value": 25
+                },
+                {
+                    "label": "Airdrop (For NFT card owners)",
+                    "value": 1
+                },
+                {
+                    "label": "Team ",
+                    "value": 18
+                },
+                {
+                    "label": "Advisors / Partners",
+                    "value": 2
+                },
+                {
+                    "label": "Reserved for Web3Games Chain",
+                    "value": 30
+                }
+            ]
+        }
+    },
+    {
+        "token": "/themis",
+        "MarketData": {
+            "circulating_supply": 0,
+            "locked_supply": 800000000,
+            "total_supply": 800000000
+        },
+        "allocation": {
+            "allocations": [
+                {
+                    "label": "Seed Round + VC Competition",
+                    "value": 8
+                },
+                {
+                    "label": "Strategic ",
+                    "value": 3
+                },
+                {
+                    "label": "LBA",
+                    "value": 3
+                },
+                {
+                    "label": "IDO",
+                    "value": 1
+                },
+                {
+                    "label": "Reserve",
+                    "value": 8
+                },
+                {
+                    "label": "Staking, Liquidity, MM, & Incentives",
+                    "value": 15
+                },
+                {
+                    "label": "Mining",
+                    "value": 35
+                },
+                {
+                    "label": "Lock Drop + Early farming",
+                    "value": 8
+                },
+                {
+                    "label": "Team ",
+                    "value": 12
+                },
+                {
+                    "label": "Partners, Advisors, & Consultants",
+                    "value": 8
+                }
+            ]
+        }
+    },
+    {
+        "token": "/wtg001",
+        "Token Supply": "Not Found"
+    }
+]
