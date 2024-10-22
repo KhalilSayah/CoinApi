@@ -19,18 +19,27 @@ NEWSPIDER_MODULE = "scraper.spiders"
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
+# Paramètre pour ajuster la taille maximale de réponse autorisée (en octets)
+DOWNLOAD_MAXSIZE = 2073741824  # ~2 Go (ajustez selon vos besoins)
+
+# Vous pouvez aussi augmenter le seuil d'avertissement (facultatif)
+DOWNLOAD_WARNSIZE = 1073741824  # 512 Mo
+
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS = 32
+CONCURRENT_REQUESTS = 32
+
+CONCURRENT_REQUESTS_PER_DOMAIN = 16
+
 
 # Configure a delay for requests for the same website (default: 0)
 # See https://docs.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-#DOWNLOAD_DELAY = 3
+DOWNLOAD_DELAY = 3
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
-
+DOWNLOAD_TIMEOUT = 500
 # Disable cookies (enabled by default)
 #COOKIES_ENABLED = False
 

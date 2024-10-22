@@ -4,7 +4,7 @@
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
-
+import random
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
 
@@ -56,10 +56,22 @@ class ScraperSpiderMiddleware:
         spider.logger.info("Spider opened: %s" % spider.name)
 
 
+
+
 class ScraperDownloaderMiddleware:
-    # Not all methods need to be defined. If a method is not defined,
-    # scrapy acts as if the downloader middleware does not modify the
-    # passed objects.
+    # Define a list of proxies
+    PROXY_LIST = [
+    'http://51.158.123.35:8811',
+    'http://51.158.68.133:8811',
+    'http://51.158.68.103:8811',
+    'http://51.158.68.100:8811',
+    'http://103.163.182.88:10000',
+    'http://143.198.182.218:80',
+    'http://185.220.101.40:8080',
+    'http://45.152.188.16:3128',
+    'http://209.127.191.180:8123',
+    'http://51.222.140.172:8080',
+]
 
     @classmethod
     def from_crawler(cls, crawler):
@@ -69,35 +81,20 @@ class ScraperDownloaderMiddleware:
         return s
 
     def process_request(self, request, spider):
-        # Called for each request that goes through the downloader
-        # middleware.
-
-        # Must either:
-        # - return None: continue processing this request
-        # - or return a Response object
-        # - or return a Request object
-        # - or raise IgnoreRequest: process_exception() methods of
-        #   installed downloader middleware will be called
+        # Rotate the proxy for each request
+        proxy = random.choice(self.PROXY_LIST)
+        request.meta['proxy'] = proxy  # Set the proxy for the request
+        spider.logger.info(f'Using proxy: {proxy}')  # Log the proxy being used
         return None
 
     def process_response(self, request, response, spider):
         # Called with the response returned from the downloader.
-
-        # Must either;
-        # - return a Response object
-        # - return a Request object
-        # - or raise IgnoreRequest
         return response
 
     def process_exception(self, request, exception, spider):
-        # Called when a download handler or a process_request()
-        # (from other downloader middleware) raises an exception.
-
-        # Must either:
-        # - return None: continue processing this exception
-        # - return a Response object: stops process_exception() chain
-        # - return a Request object: stops process_exception() chain
-        pass
+        # Handle exceptions
+        spider.logger.error(f'Error occurred: {exception}')
+        return None
 
     def spider_opened(self, spider):
         spider.logger.info("Spider opened: %s" % spider.name)

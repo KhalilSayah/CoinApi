@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 
-data/
+Data/
+scraper_module/scraper/storage/coinapi_symbols.json
