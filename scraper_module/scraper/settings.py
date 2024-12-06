@@ -27,9 +27,9 @@ DOWNLOAD_WARNSIZE = 1073741824  # 512 Mo
 
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-CONCURRENT_REQUESTS = 32
+CONCURRENT_REQUESTS = 10
 
-CONCURRENT_REQUESTS_PER_DOMAIN = 16
+CONCURRENT_REQUESTS_PER_DOMAIN = 10
 
 
 # Configure a delay for requests for the same website (default: 0)
